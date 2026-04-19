@@ -17,3 +17,6 @@ Je suis un étudiant en informatique de 17 ans qui s’est passionné pour les l
 Mon objectif principal est de devenir ingénieur plus tard. Sinon, j’aime beaucoup Linux et les chats.
 
 En dehors des études et du code, j’aime bien les animes et les jeux vidéo.
+
+
+Ah et gnuh gnuh gnuh moi moi moi
