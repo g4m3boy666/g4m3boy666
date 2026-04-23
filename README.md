@@ -41,6 +41,17 @@ Sinon j'aime bien les chats et les jeux videos 🐱🎮
 - Environnement Linux & outils
 - Étude des systèmes legacy (COBOL)
 
+## ✉️ Me contacter
+
+<p align="left">
+  <a href="https://portfolio.sunshine.li" target="_blank">
+    <img src="https://img.shields.io/badge/Mon%20Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:contact@sunshine.li">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=120&section=footer" />
 </p>
