@@ -44,7 +44,7 @@ Sinon j'aime bien les chats et les jeux videos 🐱🎮
 ## ✉️ Me contacter
 
 <p align="left">
-  <a href="mailto:contact@sunshine.li">
+  <a href="mailto:swann-contact@sunshine.li">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
