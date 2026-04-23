@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=180&section=header&text=NEO%20%2F%20Neo&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=180&section=header&text=NEO%20%2F%20&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 # 👋 Salut, moi c'est g4m3boy666 / Neo
@@ -26,7 +26,7 @@
 
 ## 📂 Description de moi 
 
-Je suis un développeur orienté bas niveau, avec un intérêt particulier pour la compréhension du fonctionnement interne des systèmes.  
+Je suis un étudian orienté bas niveau, avec un intérêt particulier pour la compréhension du fonctionnement interne des systèmes.  
 Je travaille principalement en C et en assembleur x86-64, et j’explore actuellement le COBOL afin de mieux comprendre les systèmes legacy et les environnements d’entreprise.  
 Mon objectif est de construire des bases solides en informatique système et de devenir un ingénieur capable de maîtriser le fonctionnement des logiciels en profondeur.  
 En dehors du code, je m’intéresse à Linux, et aux mécanismes internes des programmes.  
