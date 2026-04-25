@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=180&section=header&text=Neo&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-# 👋 Salut, moi c'est g4m3boy666 / Neo
+# 👋 Salut, moi c'est Neo
 
 <p align="left">
   <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white" />
