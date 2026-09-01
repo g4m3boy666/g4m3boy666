@@ -18,7 +18,7 @@
 
 ## 💻 À propos de moi
 - 🎓 Étudiant en informatique de 17 ans  
-- 🧠 J'apprend les languages de bas niveaux comme le **COBOL**, l'**assembleur x86-64** ou encore plus simplement le **C**  
+- 🧠 J'apprend les languages de bas niveaux comme l'**assembleur x86-64** ou encore plus simplement le **C**  
 - 🔧 J'aime comprendre comment les choses fonctionnent bas niveau  
 - 🚀 Objectif : devenir très solide en programmation  
 
